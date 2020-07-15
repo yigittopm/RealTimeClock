@@ -1,2 +1,2 @@
 # RealTimeClock
-Real time clock application with Pyqt5
+Real time clock application with Tkinter
